@@ -1,14 +1,16 @@
 
-
 export const metadata = {
-  title: 'Register users',
+  title: 'Vingadores',
   description: 'Project for class PTAC',
 }
 
 export default function RootLayout({ children }) {
+
   return (
     <html lang="pt-br">
-      <body>{children}</body>
+      <body>{children}
+</body>
+
     </html>
   )
 }

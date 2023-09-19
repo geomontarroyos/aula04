@@ -11,5 +11,6 @@ export default function RootLayout() {
   return (
     <button onClick={sair} class="excluir-64" role="button" ><span class="text">Excluir</span></button>
 
+
   )
 }

@@ -4,7 +4,8 @@ import { getUserAuthenticated } from "./handlerAcessAPI";
 
 const handlerAcessUser = async (user) => {
 
-    const userAuth = await getUserAuthenticated(user);  
+    const userAuth = await getUserAuthenticated(user);
+    
     const isTokenValidate = validateToken(userAuth.token);
 
     if (isTokenValidate) {
@@ -16,3 +17,4 @@ const handlerAcessUser = async (user) => {
 return userAuth
 }
 export default handlerAcessUser;
+
