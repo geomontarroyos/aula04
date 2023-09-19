@@ -1,6 +1,6 @@
 
 export const metadata = {
-  title: 'Vingadores',
+  title: 'Murielllll',
   description: 'Project for class PTAC',
 }
 

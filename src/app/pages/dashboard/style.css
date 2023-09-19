@@ -1,18 +1,17 @@
 body{
     height: 900px;
     font-size: 18px;
-    color: black;
-    background-position: center;
+    color: rgb(0, 0, 0);
+    background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: url('https://hbomax-images.warnermediacdn.com/images/GX8auJwgvI5c0wwEAAAAk/tile?size=640x360&partner=hbomaxcom&v=a9b857d06eb6dc773febcb17a8ae9dc6&host=art-gallery.api.hbo.com&language=pt-br');
 }
 .lista{
     padding: 30px 80px;
     height: 600px;
-    background-color: rgba(255, 255, 255, 0.308);
     width: 50%;
     margin-left: 35%;
 }
@@ -87,6 +86,7 @@ a{
     border: 0;
     border-radius: 8px;
    display: flex;
+   color: rgb(255, 255, 255);
     font-family: Phantomsans, sans-serif;
     font-size: 20px;
     justify-content: center;
@@ -111,6 +111,7 @@ a{
     padding: 16px 24px;
     border-radius: 6px;
     width: 60%;
+    color: rgb(255, 255, 255);
     height: 100%;
     transition: 300ms;
   }
@@ -119,7 +120,7 @@ a{
     background-image: url('https://1.bp.blogspot.com/-iKPkeHiS_VQ/YQ5Pdg1kJOI/AAAAAAAAB18/SiCD47o8FQQI2pWEtlsQZzZQJ0sfoMt-ACLcBGAsYHQ/s1400/R-3.jpg');
    background: none;
    color: white;
-
+   font-weight: bold;
   }
   
   @media (min-width: 768px) {

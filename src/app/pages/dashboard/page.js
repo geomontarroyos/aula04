@@ -9,7 +9,7 @@ export default  function Dashboard() {
    const users =  getUsers() 
     return (
         <div class="body">
-           <Suspense  fallback={<p>carregando....</p>}>
+           <Suspense  fallback={<p>Carregando....</p>}>
             <div class="lista">
             <ListUser class="lista" users={users}/>
             </div>

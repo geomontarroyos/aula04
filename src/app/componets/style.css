@@ -1,5 +1,5 @@
 form{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 .excluir-01 {
     height: 20%;
@@ -11,6 +11,7 @@ form{
     background-image: url('https://1.bp.blogspot.com/-iKPkeHiS_VQ/YQ5Pdg1kJOI/AAAAAAAAB18/SiCD47o8FQQI2pWEtlsQZzZQJ0sfoMt-ACLcBGAsYHQ/s1400/R-3.jpg');
     border: 0;
     border-radius: 8px;
+    color: rgb(255, 255, 255);
    display: flex;
     font-family: Phantomsans, sans-serif;
     font-size: 20px;
