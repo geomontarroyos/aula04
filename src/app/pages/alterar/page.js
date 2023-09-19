@@ -35,8 +35,8 @@ const UserForm = () => {
           type='password'
           >
         </input>
-        <button class="button-64"  ><span class="text">Alterar</span></button>
-        <button class="button-65"><span class="text"><a href="/pages/dashboard">Voltar</a></span></button>
+        <button class="button-01"  ><span class="text">Alterar</span></button>
+        <button class="button-02"><span class="text"><a href="/pages/dashboard">Voltar</a></span></button>
       </form>
       <ToastContainer/>
     </div>

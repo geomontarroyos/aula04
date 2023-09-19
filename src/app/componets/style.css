@@ -1,19 +1,16 @@
 form{
     background-color: black;
 }
-.excluir-64 {
+.excluir-01 {
     height: 20%;
     margin-top: 10px;
     margin-left: 60px;
     align-items: center;
     background-position: center;
     background-size: cover;
-    background-image: url('https://i.redd.it/ic8hwuv4h6s41.jpg');
+    background-image: url('https://1.bp.blogspot.com/-iKPkeHiS_VQ/YQ5Pdg1kJOI/AAAAAAAAB18/SiCD47o8FQQI2pWEtlsQZzZQJ0sfoMt-ACLcBGAsYHQ/s1400/R-3.jpg');
     border: 0;
     border-radius: 8px;
-    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
-    box-sizing: border-box;
-    color: rgb(255, 255, 255);
    display: flex;
     font-family: Phantomsans, sans-serif;
     font-size: 20px;
@@ -30,13 +27,12 @@ form{
     cursor: pointer;
   }
   
-  .excluir-64:active,
-  .excluir-64:hover {
+  .excluir-01:active,
+  .excluir-01:hover {
     outline: 0;
   }
   
-  .excluir-64 span {
-    background-color: rgb(5, 6, 45);
+  .excluir-01 span {
     padding: 16px 24px;
     border-radius: 6px;
     width: 100%;
@@ -44,15 +40,15 @@ form{
     transition: 300ms;
   }
   
-  .excluir-64:hover span {
-    background-image: url('https://lumiere-a.akamaihd.net/v1/images/eu_avr-3_showcase_hero_r_e0e9f3e0.jpeg?region=0,0,1920,802&width=960');
+  .excluir-01:hover span {
+    background-image: url('https://1.bp.blogspot.com/-iKPkeHiS_VQ/YQ5Pdg1kJOI/AAAAAAAAB18/SiCD47o8FQQI2pWEtlsQZzZQJ0sfoMt-ACLcBGAsYHQ/s1400/R-3.jpg');
    background: none;
    color: white;
    font-weight: bold;
   }
   
   @media (min-width: 768px) {
-    .excluir-64 {
+    .excluir-01 {
       font-size: 24px;
       min-width: 10%;
       min-height: 20%;

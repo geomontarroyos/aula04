@@ -21,8 +21,8 @@ input{
   margin-top: 5px;
   margin-left: 15px;
   border-radius: 10px;
-  color: black;
-  border: 2px solid black;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(255, 255, 255);
   transition: border-color 0.3s;
 }
 input:focus{
@@ -46,13 +46,14 @@ h1{
 }
 
 /* CSS */
-.button-64 {
+.button-01 {
   margin-top: 10px;
   margin-left: 60px;
   align-items: center;
   background-position: center;
   background-size: cover;
-  background-image: url('https://a-static.mlcdn.com.br/450x450/tapete-capacho-coragem-o-cao-covarde-muriel-decoracao-porta-endereco-do-kapacho/enderecodokapacho/9d9219bac1aa11ed8fe24201ac18502f/20a2dca41331a834655123c7f47dd035.jpeg');
+  background-image: url('https://a-static.mlcdn.com.br/450x450/tapete-capacho-coragem-o-cao-covarde-muriel-decoracao-porta-endereco-do-kapacho/enderecodokapacho/9d9219bac1aa11ed8fe24201ac18502f/20a2dca41331a834025123c7f47dd035.jpeg');
+
   border: 0;
   border-radius: 8px;
  display: flex;
@@ -71,12 +72,12 @@ h1{
   cursor: pointer;
 }
 
-.button-64:active,
-.button-64:hover {
+.button-01:active,
+.button-01:hover {
   outline: 0;
 }
 
-.button-64 span {
+.button-01 span {
   padding: 16px 24px;
   border-radius: 6px;
   width: 100%;
@@ -85,7 +86,7 @@ h1{
 }
 
 @media (min-width: 768px) {
-  .button-64 {
+  .button-01 {
     font-size: 24px;
     min-width: 50%;
   }

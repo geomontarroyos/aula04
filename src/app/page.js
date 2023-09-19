@@ -42,7 +42,7 @@ export default function Login() {
           type='password'
           onChange={(e) => { setUser({ ...user, password: e.target.value }) }}>
         </input>
-        <button class="button-64"  ><span class="text"></span></button>
+        <button class="button-01"  ><span class="text"></span></button>
       </form>
       <ToastContainer/>
     </div>
